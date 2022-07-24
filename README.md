@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Nicol Visser
+- 📚 I’m currently in my final year of Electronic Engineering
+- 📫 Contact me via nicolvisser@yahoo.com or vissernicol@gmail.com
