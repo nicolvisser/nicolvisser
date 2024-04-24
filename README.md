@@ -1,4 +1,3 @@
 - 👋 Hi, I’m Nicol Visser.
 - 👨‍🎓 I’m currently pursuing a Master's degree in Electronic Engineering at Stellenbosch University
 - 📚 My research is on finding low bitrate discrete representations for speech that can be used for generative spoken language modeling and can help support under-resourced languages
-- 📫 Contact me via vissernicol@gmail.com
