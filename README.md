@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Nicol Visser. ("Nickel Fisher")
+- 👋 Hi, I’m Nicol Visser ("Nickel Fisher")
 - 🎓 I’m currently pursuing a PhD degree in Electronic Engineering at Stellenbosch University, South Africa
 - 📃 My research is on finding low bitrate discrete representations for speech that can be used for spoken language modeling and help support under-resourced languages
 
